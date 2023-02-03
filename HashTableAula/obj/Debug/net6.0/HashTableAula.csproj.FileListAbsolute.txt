@@ -1,0 +1,15 @@
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\bin\Debug\net6.0\HashTableAula.exe
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\bin\Debug\net6.0\HashTableAula.deps.json
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\bin\Debug\net6.0\HashTableAula.runtimeconfig.json
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\bin\Debug\net6.0\HashTableAula.dll
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\bin\Debug\net6.0\HashTableAula.pdb
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\obj\Debug\net6.0\HashTableAula.csproj.AssemblyReference.cache
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\obj\Debug\net6.0\HashTableAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\obj\Debug\net6.0\HashTableAula.AssemblyInfoInputs.cache
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\obj\Debug\net6.0\HashTableAula.AssemblyInfo.cs
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\obj\Debug\net6.0\HashTableAula.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\obj\Debug\net6.0\HashTableAula.dll
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\obj\Debug\net6.0\refint\HashTableAula.dll
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\obj\Debug\net6.0\HashTableAula.pdb
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\obj\Debug\net6.0\HashTableAula.genruntimeconfig.cache
+C:\Users\vinicius.reolon\Music\Aula8\HashTableAula\obj\Debug\net6.0\ref\HashTableAula.dll

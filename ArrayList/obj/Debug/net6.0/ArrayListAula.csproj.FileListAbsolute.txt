@@ -1,0 +1,15 @@
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\bin\Debug\net6.0\ArrayListAula.exe
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\bin\Debug\net6.0\ArrayListAula.deps.json
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\bin\Debug\net6.0\ArrayListAula.runtimeconfig.json
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\bin\Debug\net6.0\ArrayListAula.dll
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\bin\Debug\net6.0\ArrayListAula.pdb
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\obj\Debug\net6.0\ArrayListAula.csproj.AssemblyReference.cache
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\obj\Debug\net6.0\ArrayListAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\obj\Debug\net6.0\ArrayListAula.AssemblyInfoInputs.cache
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\obj\Debug\net6.0\ArrayListAula.AssemblyInfo.cs
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\obj\Debug\net6.0\ArrayListAula.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\obj\Debug\net6.0\ArrayListAula.dll
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\obj\Debug\net6.0\refint\ArrayListAula.dll
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\obj\Debug\net6.0\ArrayListAula.pdb
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\obj\Debug\net6.0\ArrayListAula.genruntimeconfig.cache
+C:\Users\vinicius.reolon\Music\Aula8\ArrayList\obj\Debug\net6.0\ref\ArrayListAula.dll

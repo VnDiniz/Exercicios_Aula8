@@ -1,0 +1,15 @@
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\bin\Debug\net6.0\Exercicio25.exe
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\bin\Debug\net6.0\Exercicio25.deps.json
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\bin\Debug\net6.0\Exercicio25.runtimeconfig.json
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\bin\Debug\net6.0\Exercicio25.dll
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\bin\Debug\net6.0\Exercicio25.pdb
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\obj\Debug\net6.0\Exercicio25.csproj.AssemblyReference.cache
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\obj\Debug\net6.0\Exercicio25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\obj\Debug\net6.0\Exercicio25.AssemblyInfoInputs.cache
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\obj\Debug\net6.0\Exercicio25.AssemblyInfo.cs
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\obj\Debug\net6.0\Exercicio25.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\obj\Debug\net6.0\Exercicio25.dll
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\obj\Debug\net6.0\refint\Exercicio25.dll
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\obj\Debug\net6.0\Exercicio25.pdb
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\obj\Debug\net6.0\Exercicio25.genruntimeconfig.cache
+C:\Users\vinicius.reolon\Music\Aula8\Exercicio25\obj\Debug\net6.0\ref\Exercicio25.dll
